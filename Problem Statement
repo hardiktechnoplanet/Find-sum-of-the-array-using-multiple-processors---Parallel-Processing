@@ -1,0 +1,5 @@
+The goal is to create a large array A of n numbers at one node (let us call it the source node), distribute blocks of the
+array across the processors, and find the global sum of the numbers in A.
+The task is to solve this FIND SUM problem using at least these two different logical topologies:
+1. a ring of k processors
+2. a hypercube of k = 2d processors
